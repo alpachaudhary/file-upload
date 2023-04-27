@@ -1,0 +1,53 @@
+Pen
+- Verify the ink color green, red, black, etc.
+
+- Check the user is able to open the pen cap easily.
+
+- Check the user able to write smoothly.
+
+- Checck the user able to write on paper.
+
+- Verify tha tthe user is able to hold the pen comfortably 
+
+- Verify the matrial used for the pen.
+
+- Check that the  pen company name and logo are properly visible.
+
+- Check the nib size.
+
+- Check the waterproof ink 
+
+- Check the outer body color of the pen.
+
+- Check that text is written by pen.
+
+- Check if the pen supports multiple refils.
+
+- Check if the grips of the pen
+
+
+
+
+* Table
+
+- Verify that the dimension of the table is as per the specification.
+
+- Verify that weight of the table is as per as the specification.
+
+- Check the height of the seat from.
+
+- Check the material used in making the table word plastice,etc
+
+- Check if the leg are level to the floor.
+
+- Check the usability of the table as an office table.
+
+- Verify the weight of the table.
+
+- Verify the back support in the table.
+
+- Verify the balance of teh chair with three legs.
+
+- Verify the balance of table 
+
+- 
